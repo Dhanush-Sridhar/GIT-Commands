@@ -3,9 +3,11 @@ GIT Terminal Commands
 
 ## Directory commands
   Change Diectory
+  
   cd <Diectory-name>
   
   list all files in directory
+  
   ls -a 
 
 ## GIT clone
@@ -35,6 +37,7 @@ GIT Terminal Commands
 
 ## GIT push 
     Pushes the fie to the github remote repository
+  
     git push https://github.com/user-name/repository-name
     
 ##GIT checkout 
